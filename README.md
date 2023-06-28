@@ -2,7 +2,7 @@
 Hi there! I'm Djedjig Nada 👋
 <h1 align="center">
 
-## Passionate computer science student. Dedicated to using technology to solve real-world problems 🌐. Always learning and exploring new technologies. Looking to collaborate and connect with fellow developers to build a better digital world.
+## Passionate computer science student. Always learning and exploring new technologies. Looking to collaborate and connect with fellow developers to build a better digital world.
 
 - 🌱 I’m currently learning **Data Analytics and machine learning**
 - 👯 I’m looking to collaborate on **innovative projects** 
