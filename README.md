@@ -1,13 +1,10 @@
 <h1 align="center">
-Hi there! I'm Djedjig Nada 👋
-<h1 align="center">
+Hi there! I'm Nada !
+</h1>
 
-## Passionate computer science student. Always learning and exploring new technologies. Looking to collaborate and connect with fellow developers to build a better digital world.
-
-- 🌱 I’m currently learning **Data Analytics and machine learning**
-- 👯 I’m looking to collaborate on **innovative projects** 
+- 🌱 I’m currently learning **AI / ML / DL**
 - 💬 Ask me about **Anything, I'll do my best to help**
-- 📫 How to reach me: **nadadjedjig@gmail.com or feel free to message me on LinkedIn**
+- 👨‍💻 How to reach me: **nadadjedjig@gmail.com or feel free to message me on LinkedIn**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -20,24 +17,19 @@ Hi there! I'm Djedjig Nada 👋
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="ReactJS" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" alt="NextJs" width="40" height="40"/> </a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> </a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
 </p>
 <br>
 <p align="center">
     <a href="https://www.linkedin.com/in/djedjignada" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://github.com/NaDdjg/" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
      <a href="mailto:nadadjedjig@gmail.com" alt="Mail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p> 
-<!--
-**NaDdjg/NaDdjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
